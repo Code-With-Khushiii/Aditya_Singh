@@ -159,11 +159,7 @@ function App() {
       title: 'Domain Analytics',
       skills: ['Financial Analytics', 'Credit Risk Modeling', 'Geospatial Analysis', 'User Behavior Analytics']
     },
-    {
-      icon: Award,
-      title: 'Certifications',
-      skills: ['Google Advanced Data Analytics Certificate', 'Coursera, 2026', 'SQL, DataCamp', 'Python, DataCamp', 'R, DataCamp', 'Competitive Programmer Core Skills']
-    }
+    
   ];
 
   const education = [
